@@ -1,6 +1,6 @@
 {
   "name": "@carousel-ui/react-spin-carousel-3d",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "A 3d Carousel that is built for React",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

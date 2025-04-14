@@ -8,6 +8,8 @@ prettier.config.js
 src/
 node_modules/
 README.md
+README.dev.md
+waste.md 
 *.map
 *.tgz
 
