@@ -1205,7 +1205,7 @@ export default YourComponent;
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/your-repo/issues).
+Feel free to check the [issues page](https://github.com/react-carousel/react-spin-carousel-3d/issues).
 
 If you'd like to improve this project, please:
 
@@ -1216,6 +1216,8 @@ If you'd like to improve this project, please:
 5. Open a pull request
 
 We appreciate all kinds of contributions — bug reports, feature ideas, code, and documentation!
+
+Please add tests before submitting a PR!
 
 ## 📜 License
 
