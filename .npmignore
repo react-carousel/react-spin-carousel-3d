@@ -1,0 +1,20 @@
+# Exclude config files and source code
+rollup.config.js
+jest.config.js
+tsconfig.json
+.eslintrc.js
+prettier.config.js
+
+src/
+node_modules/
+README.md
+*.map
+*.tgz
+
+*.log
+# *.ts
+*.tsx
+.vscode/
+.env
+tests/
+

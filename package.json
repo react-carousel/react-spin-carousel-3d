@@ -1,0 +1,54 @@
+{
+  "name": "@carousel-ui/react-spin-carousel-3d",
+  "version": "1.0.7",
+  "description": "A 3d Carousel that is built for React",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rollup": "rollup -c --bundleConfigAsCjs"
+  },
+  "keywords": [
+    "react",
+    "react-carousel",
+    "react-3d-carousel",
+    "react-spin-carousel",
+    "react-3d-spin-carousel",
+    "react-spin-carousel-3d",
+    "react-ring-carousel",
+    "react-rotate-carousel",
+    "react-3d-rotate-carousel",
+    "react-circle-carousel",
+    "react-loop-carousel",
+    "react-orbit-carousel",
+    "react-animated-carousel",
+    "react-infinite-carousel",
+    "3d-carousel",
+    "3d-spin-carousel",
+    "3d-rotate-carousel",
+    "ring-carousel",
+    "react-auto-rotate-carousel",
+    "react-motion-carousel",
+    "react-circular-carousel"
+  ],
+  "author": "Spurgeon Gnan Prakasham Tara",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.12",
+    "react": "^19.0.0",
+    "rollup": "^4.36.0",
+    "rollup-plugin-dts": "^6.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
