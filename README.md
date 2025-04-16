@@ -1,6 +1,6 @@
 # React Spin Carousel 3D 🎠
 
-![Carousel Demo]("https://raw.githubusercontent.com/SpurgeonPrakash/images-for-carousel-ui/main/carousel-ui-react-spin-carousel-3d") _Replace with your actual demo GIF_
+![Carousel Demo]("https://raw.githubusercontent.com/SpurgeonPrakash/images-for-carousel-ui/main/carousel-ui-react-spin-carousel-3d")
 
 The **React Spin Carousel 3D** is a highly customizable 3D carousel component for React. It allows you to display a collection of items in a visually appealing 3D carousel with smooth transitions and interactive controls. The component supports auto-play, custom radio buttons, smooth animations and multiple display modes("card", "image"). Perfect for showcasing portfolios, products, or image galleries and many more :).
 
