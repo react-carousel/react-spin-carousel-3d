@@ -9,6 +9,7 @@ src/
 node_modules/
 README.md
 README.dev.md
+USAGE.md
 waste.md 
 *.map
 *.tgz
